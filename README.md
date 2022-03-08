@@ -5,6 +5,7 @@
 - 📫 How to reach me kris6738@gmail.com
 
 <!---
+i want to finish the git/github by 3/15
 kris6738/kris6738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
