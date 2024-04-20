@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kris6738
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning devops tools
+- 🌱 I’m currently working devops tools
 - 💞️ I’m looking to collaborate on devops 
 - 📫 How to reach me kris6738@gmail.com
 
